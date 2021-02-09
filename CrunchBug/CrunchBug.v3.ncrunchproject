@@ -1,5 +1,7 @@
 ﻿<ProjectConfiguration>
   <Settings>
-    <FilesExcludedFromAutoBuild />
+    <FilesExcludedFromAutoBuild>
+      <Value>*.txt</Value>
+    </FilesExcludedFromAutoBuild>
   </Settings>
 </ProjectConfiguration>
